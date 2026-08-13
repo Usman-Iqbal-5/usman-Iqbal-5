@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Usman Iqbal.
 - 🎓 MSc Computer Science graduate from Aston University
-MSc Computer Science graduate from Aston University
 - 💻 Software Developer specialising in JavaScript, TypeScript, React, Node.js, Express, and PostgreSQL
 - 🚀 Developing software through hands-on projects
 <!---
